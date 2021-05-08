@@ -3,7 +3,8 @@ This repository includes the Matlab code in the paper **An adaptive shortest-sol
 
 Authors: Xue Yu, Hai-Jun Zhou, Yifan Sun
 
-This code is written and maintained by Xue Yu
+This code is written and maintained by Xue Yu  
+
 Email: 2019101127@ruc.edu.cn
 
 # toy example
@@ -11,5 +12,6 @@ Email: 2019101127@ruc.edu.cn
 - Run demo_ASSD.m.
   
 # 
-If you have any questions please contact 2019101127@ruc.edu.cn.
+If you have any questions please contact 2019101127@ruc.edu.cn.  
+
 Thank you.
